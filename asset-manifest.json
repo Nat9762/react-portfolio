@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.96322c7e.css",
-    "main.js": "./static/js/main.80c0659f.js",
-    "static/js/787.a2cb61a6.chunk.js": "./static/js/787.a2cb61a6.chunk.js",
-    "static/media/helvetica-neu.ttf": "./static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "./static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "./static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "./index.html",
-    "main.96322c7e.css.map": "./static/css/main.96322c7e.css.map",
-    "main.80c0659f.js.map": "./static/js/main.80c0659f.js.map",
-    "787.a2cb61a6.chunk.js.map": "./static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": ".https://nat9762.github.io/react-portfolio/static/css/main.96322c7e.css",
+    "main.js": ".https://nat9762.github.io/react-portfolio/static/js/main.3bf38b1e.js",
+    "static/js/787.a2cb61a6.chunk.js": ".https://nat9762.github.io/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": ".https://nat9762.github.io/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": ".https://nat9762.github.io/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": ".https://nat9762.github.io/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": ".https://nat9762.github.io/react-portfolio/index.html",
+    "main.96322c7e.css.map": ".https://nat9762.github.io/react-portfolio/static/css/main.96322c7e.css.map",
+    "main.3bf38b1e.js.map": ".https://nat9762.github.io/react-portfolio/static/js/main.3bf38b1e.js.map",
+    "787.a2cb61a6.chunk.js.map": ".https://nat9762.github.io/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96322c7e.css",
-    "static/js/main.80c0659f.js"
+    "static/js/main.3bf38b1e.js"
   ]
 }
